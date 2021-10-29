@@ -1,12 +1,12 @@
 %define kloxocp /home/kloxo/httpd/cp
-%define productname kloxong-panel
+%define productname kloxokr-panel
 %define packagename adminer
 %define sourcename %{packagename}
 
 Name: %{productname}-%{packagename}
 Summary: Javascript Framework HTML 
 Version: 4.7.1
-Release: 1.kng%{?dist}
+Release: 1.kkr%{?dist}
 License: GPL
 URL: http://www.adminer.org/
 Group: Applications/Internet
